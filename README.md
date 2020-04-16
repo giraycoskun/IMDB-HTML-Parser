@@ -9,9 +9,9 @@
 
 **Valid Links:**
 
-https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&view=simple
+* https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&view=simple
 
-https://www.imdb.com/search/title/?groups=top_1000&view=simple&sort=user_rating,desc&count=10&start=5&ref_=adv_nxt
+* https://www.imdb.com/search/title/?groups=top_1000&view=simple&sort=user_rating,desc&count=10&start=5&ref_=adv_nxt
 
 ---
 **Legal issues on Web Scraping:**
