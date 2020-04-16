@@ -3,7 +3,7 @@
 
 #### [Python Notebook](https://github.com/giraycoskun/IMDB-HTML-Parser/blob/master/IMDB_HTML_Parser.ipynb)
 #### [Python File](https://github.com/giraycoskun/IMDB-HTML-Parser/blob/master/IMDB_HTML_Parser.py)
----
+
 ---
 **Author Github:** [Giray Coskun](https://github.com/giraycoskun)
 
