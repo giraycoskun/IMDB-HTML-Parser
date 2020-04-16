@@ -7,6 +7,7 @@
 ---
 **Author Github:** [Giray Coskun](https://github.com/giraycoskun)
 
+---
 **Valid Links:**
 
 * https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&view=simple
