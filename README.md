@@ -19,5 +19,7 @@ https://www.lawinsociety.org/legal-perspectives-on-scraping-data-from-the-modern
 
 ---
 
-#### Python Notebook	IMDB_HTML_Parser.ipynb
-#### Python File:	IMDB_HTML_Parser.py
+#### [Python Notebook](https://github.com/giraycoskun/IMDB-HTML-Parser/blob/master/IMDB_HTML_Parser.ipynb)
+#### [Python File](https://github.com/giraycoskun/IMDB-HTML-Parser/blob/master/IMDB_HTML_Parser.py)
+---
+**Note:** MOvie titles are original titles
