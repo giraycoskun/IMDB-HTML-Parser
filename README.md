@@ -1,5 +1,10 @@
 # HTML Parser for IMDB
 ---
+
+#### [Python Notebook](https://github.com/giraycoskun/IMDB-HTML-Parser/blob/master/IMDB_HTML_Parser.ipynb)
+#### [Python File](https://github.com/giraycoskun/IMDB-HTML-Parser/blob/master/IMDB_HTML_Parser.py)
+---
+---
 **Author Github:** [Giray Coskun](https://github.com/giraycoskun)
 
 **Valid Links:**
@@ -19,7 +24,4 @@ https://www.lawinsociety.org/legal-perspectives-on-scraping-data-from-the-modern
 
 ---
 
-#### [Python Notebook](https://github.com/giraycoskun/IMDB-HTML-Parser/blob/master/IMDB_HTML_Parser.ipynb)
-#### [Python File](https://github.com/giraycoskun/IMDB-HTML-Parser/blob/master/IMDB_HTML_Parser.py)
----
-**Note:** MOvie titles are original titles
+**Note:** Movie titles are original titles
